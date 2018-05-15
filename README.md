@@ -8,7 +8,7 @@ mistakes. These errors are avoided by allowing the system to keep track of infor
 book and even fine information and thus there is no need to keep manual track of this information which thereby avoids chances of 
 mistakes.
 
-**Prerequisites **
+**Prerequisite Required**
   1.	NetBean 6.0
   2.	MySQL Server 5.0
   3.	MySQL Query Browser
